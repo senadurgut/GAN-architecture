@@ -1,1 +1,1 @@
-# GAN-architecture
+# GAN Architecture
